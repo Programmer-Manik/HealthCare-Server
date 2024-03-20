@@ -22,7 +22,7 @@ router.get(
 
 router.post(
   '/create-doctor',
-  auth(ENUM_USER_ROLE.SUPER_ADMIN, ENUM_USER_ROLE.ADMIN),
+  // auth(ENUM_USER_ROLE.SUPER_ADMIN, ENUM_USER_ROLE.ADMIN),
   FileUploadHelper.upload.single('file'),
   (req: Request, res: Response, next: NextFunction) => {
     req.body = UserValidation.createDoctor.parse(JSON.parse(req.body.data))
