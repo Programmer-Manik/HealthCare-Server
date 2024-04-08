@@ -1,7 +1,0 @@
-Mon Mar 18 2024 3:30:0 } [PH] error: 
-Invalid `prisma.appointment.findMany()` invocation:
-
-
-Authentication failed against database server at `localhost`, the provided database credentials for `postgres` are not valid.
-
-Please make sure to provide valid database credentials for the database server at `localhost`.
