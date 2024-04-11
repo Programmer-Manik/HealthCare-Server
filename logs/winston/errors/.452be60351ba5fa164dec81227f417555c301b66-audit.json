@@ -6,11 +6,6 @@
     "auditLog": "C:\\Next_Level_front_end\\HealthCare-Server\\logs\\winston\\errors\\.452be60351ba5fa164dec81227f417555c301b66-audit.json",
     "files": [
         {
-            "date": 1711395060706,
-            "name": "C:\\Next_Level_front_end\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-26-03-01-error.log",
-            "hash": "7fe228113a2e547e4c12bbca24a023c7ed88f44cd6513e06ac707c9923e5e56f"
-        },
-        {
             "date": 1711559677687,
             "name": "C:\\Next_Level_front_end\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-27-03-23-error.log",
             "hash": "c69f4dccb1a6c4c9ee40a107d9dc841076ed939ebbd39437cff1e58c3b6dd16d"
@@ -114,6 +109,11 @@
             "date": 1712574790256,
             "name": "C:\\Next_Level_front_end\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-08-04-17-error.log",
             "hash": "76fe087499200d5ec6ea78d0a059ddff6c26e97fb1f71c5fd508c155df50342c"
+        },
+        {
+            "date": 1712659444622,
+            "name": "C:\\Next_Level_front_end\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-09-04-16-error.log",
+            "hash": "42d8f1dcb604e19497db14637e14acb4906d3a070cbe75361ad0fb62a9411636"
         }
     ],
     "hashType": "sha256"
