@@ -10,7 +10,8 @@ import { errorlogger } from './shared/logger';
 
 const app: Application = express();
 
-app.use(cors());
+app.use(cors({origin:'http://localhost:3000', credentials:true}));
+// app.use(cors());
 app.use(cookieParser());
 
 //parser
