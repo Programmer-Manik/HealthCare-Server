@@ -7,7 +7,7 @@ Welcome to the **Health Care Server** project! This repository contains the serv
 1. **Clone the Repository:**
     
     ```bash
-    git clone https://github.com/Programmer-Manik/HealthCare-Server.git
+    git clone https://github.com/Programming-Hero-Next-Level-Development/health-care-server.git
     ```
     
 2. **Navigate to the Project Directory:**
