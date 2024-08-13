@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Apollo-Three\\HealthCare-Server\\logs\\winston\\successes\\.802264b72671060e129c8c42fa806bd48f5b30a4-audit.json",
+    "files": [
+        {
+            "date": 1722257314804,
+            "name": "C:\\Apollo-Three\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-29-07-18-success.log",
+            "hash": "36b79bec631dcd5433df3b27f7b9d73670298eb595dae3c44386b0d76833df12"
+        }
+    ],
+    "hashType": "sha256"
+}
